@@ -1,0 +1,61 @@
+body {
+    height: 100vh;
+    background-color: #181616;
+    color: aliceblue;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-style: normal;
+}
+header {
+    width: 100%;
+    text-align: center;
+    height: 10%;
+    font-size: 60px;
+}
+header a {
+    color: aliceblue;
+    text-decoration: none;
+}
+main p {
+    padding: 12px;
+}
+#div1 {
+    background-color: black;
+}
+#div2 {
+    background-color: darkblue;
+}
+#div3 {
+    background-color: brown;
+}
+footer {
+    width: 100%;
+    height: 5%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    text-decoration: underline;
+    z-index: -1;
+}
+button {
+    display: inline-block;
+    width: 200px;
+    height: 80px;
+    font-size: 40px;
+}
+button:hover {
+    cursor: pointer;
+}
+main img {
+    width: 600px;
+}
+a {
+    color: antiquewhite;
+}
+a:visited {
+    color: aliceblue;
+}
+main li {
+    font-size: 32px;
+}
